@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Calculator:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a1a4eda2-5701-4ff2-9b74-193dcd6bfbda" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2IkbwnzJbPXTxoWVciBUJPOHhGt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/res" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\m.ev.windows\javaproject\Calculator\res" />
+      <recent name="D:\m.ev.windows\javaproject\Calculator\src\res" />
+      <recent name="D:\m.ev.windows\javaproject\Calculator\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="me.zhou.controller" />
+      <recent name="me.zhou.ui" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\m.ev.windows\javaproject\Calculator" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="me.zhou.App" />
+      <module name="Calculator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="me.zhou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1a4eda2-5701-4ff2-9b74-193dcd6bfbda" name="Default Changelist" comment="" />
+      <created>1670728769566</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670728769566</updated>
+      <workItem from="1670728774351" duration="4418000" />
+      <workItem from="1670733253672" duration="6771000" />
+      <workItem from="1670740151712" duration="15144000" />
+      <workItem from="1670807555705" duration="7607000" />
+      <workItem from="1670815390435" duration="3492000" />
+      <workItem from="1670933873712" duration="1961000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="220" key="#com.intellij.ide.util.MemberChooser" timestamp="1670814007671">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="765" y="220" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1032@0.0.1920.1032" timestamp="1670814007671" />
+    <state x="733" y="367" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1670755445008">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="733" y="367" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1670755445008" />
+    <state x="690" y="263" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1670809307891">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="690" y="263" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1670809307891" />
+    <state x="766" y="324" key="FileChooserDialogImpl" timestamp="1670755467016">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="766" y="324" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1670755467016" />
+    <state width="1879" height="114" key="GridCell.Tab.0.bottom" timestamp="1670935875590">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1879" height="114" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1670818484967" />
+    <state width="1879" height="114" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1670935875590" />
+    <state width="1879" height="114" key="GridCell.Tab.0.center" timestamp="1670935875590">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1879" height="114" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1670818484967" />
+    <state width="1879" height="114" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1670935875590" />
+    <state width="1879" height="114" key="GridCell.Tab.0.left" timestamp="1670935875590">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1879" height="114" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1670818484967" />
+    <state width="1879" height="114" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1670935875590" />
+    <state width="1879" height="114" key="GridCell.Tab.0.right" timestamp="1670935875590">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1879" height="114" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1670818484967" />
+    <state width="1879" height="114" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1670935875590" />
+    <state width="1879" height="72" key="GridCell.Tab.1.bottom" timestamp="1670815331256">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1879" height="72" key="GridCell.Tab.1.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1670815331256" />
+    <state width="1879" height="72" key="GridCell.Tab.1.center" timestamp="1670815331256">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1879" height="72" key="GridCell.Tab.1.center/0.0.1920.1032@0.0.1920.1032" timestamp="1670815331256" />
+    <state width="1879" height="72" key="GridCell.Tab.1.left" timestamp="1670815331256">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1879" height="72" key="GridCell.Tab.1.left/0.0.1920.1032@0.0.1920.1032" timestamp="1670815331256" />
+    <state width="1879" height="72" key="GridCell.Tab.1.right" timestamp="1670815331256">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1879" height="72" key="GridCell.Tab.1.right/0.0.1920.1032@0.0.1920.1032" timestamp="1670815331256" />
+    <state x="483" y="158" key="SettingsEditor" timestamp="1670817905294">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="483" y="158" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1670817905294" />
+    <state x="623" y="223" width="672" height="678" key="search.everywhere.popup" timestamp="1670811814394">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="623" y="223" width="672" height="678" key="search.everywhere.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1670811814394" />
+  </component>
+</project>
